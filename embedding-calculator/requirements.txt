@@ -17,7 +17,7 @@ requests~=2.24.0
 pylama~=7.7.1
 
 # dependencies for both scanner backends
-Pillow~=8.3.2
+Pillow~=10.0.1
 imagecodecs~=2020.5.30
 numpy~=1.19.5
 scipy~=1.5.4
